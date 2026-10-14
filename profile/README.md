@@ -14,7 +14,7 @@ Task prompts, hidden tests, reference solutions, and generated patches remain pr
 
 ## Work with us
 
-Explore [our website](https://flamkilabs.com), [research results](https://flamkilabs.com/horizonswe), or [public demonstration task](https://github.com/Flamki/flamki-auth-refresh-sample).
+Explore [our website](https://flamkilabs.com), [research results](https://flamkilabs.com/horizonswe), or [public demonstration task](https://github.com/FlamkiLabs/engineering-task-sample).
 
 For a paid five-task pilot, share your target capability, language, and acceptance criteria. Scope, custom pricing, and a delivery schedule are agreed before production.
 
